@@ -1,1 +1,1 @@
-# all my AI experiments stuff
+# Some AI experiments using Python and Kotlin
